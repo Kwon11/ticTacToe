@@ -1,0 +1,24 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "tictactoe for submodule challenge",
+  "main": "Main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kwon11/ticTacToe.git"
+  },
+  "keywords": [
+    "practice",
+    "tictactoe",
+    "toy"
+  ],
+  "author": "Chan Kwon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kwon11/ticTacToe/issues"
+  },
+  "homepage": "https://github.com/Kwon11/ticTacToe#readme"
+}
